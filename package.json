@@ -1,0 +1,14 @@
+{
+  "name": "erajewellers.in",
+  "version": "1.0.0",
+  "description": "ERA JEWELLERS website",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alfaiz momin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
